@@ -31,10 +31,10 @@ public class Tasksheet119 {
 
     
     public static void printResult(String operation, double result) {
-        if (result == (int) result) {  // Check if result is a whole number
-            System.out.println(operation + " result: " + (int) result);  // Print as integer
+        if (result == (int) result) {  
+            System.out.println(operation + " result: " + (int) result);  
         } else {
-            System.out.println(operation + " result: " + result);  // Print as decimal
+            System.out.println(operation + " result: " + result);  
         }
     }
 

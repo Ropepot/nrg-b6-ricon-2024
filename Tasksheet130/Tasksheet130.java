@@ -3,7 +3,7 @@ package Tasksheet130;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Taskheet130 {
+public class Tasksheet130 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
